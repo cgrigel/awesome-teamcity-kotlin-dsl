@@ -14,7 +14,7 @@ A curated list of resources for Teamcity Kotlin DSL
 
 
 ## Videos:
-- [Getting Started With Kotlin DSL in TeamCity: From Zero to Hero](hhttps://www.youtube.com/watch?v=AEYjAnR2-MY&t=3468s)
+- [Getting Started With Kotlin DSL in TeamCity: From Zero to Hero](https://www.youtube.com/watch?v=AEYjAnR2-MY&t=3468s)
 - [TeamCity: Continuous Delivery as Code](https://www.youtube.com/watch?v=BNlkYUwGLrA)
 
 
