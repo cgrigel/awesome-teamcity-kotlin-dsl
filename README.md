@@ -6,6 +6,7 @@ A curated list of resources for Teamcity Kotlin DSL
 - [Getting Starting](#getting-starting)
 - [Videos](#videos)
 - [Examples](#examples)
+- [Presentation](#presentation)
 
 
 ## Getting Starting:
@@ -19,4 +20,8 @@ A curated list of resources for Teamcity Kotlin DSL
 
 
 ## Examples:
-- [GitHub examples](https://github.com/rodm)
+- [Marco Behler Jetbrains](https://github.com/marcobehlerjetbrains/anewtodolist/blob/marcobehlerjetbrains-patch-1/.teamcity/settings.kts)
+- [k8s-kotlin-dsl](https://github.com/fkorotkov/k8s-kotlin-dsl)
+
+## Presentation:
+[TeamCity: Continuous Delivery as Code](https://drive.google.com/file/d/1m1FZOMMgUb8JPFtmJxeqEJqb2nDMWUoL/view)

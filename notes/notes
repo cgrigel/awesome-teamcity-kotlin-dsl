@@ -1,2 +1,4 @@
 1. Teamcity DSL can not generate patches from UI to Kotlin DSL .teamcity  project folder (.teamcity/patches)
-2. Teamcity DSL has a possability use of Access Auxiliary Scripts from DSL Settings.
+2. Teamcity DSL has a possability use of Access Auxiliary Scripts from DSL Settings. (readScript)
+3. Clases (SOLID)
+4. Kotlin code runs in a sandboxes.
