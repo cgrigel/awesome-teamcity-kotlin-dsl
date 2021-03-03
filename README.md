@@ -21,6 +21,7 @@ A curated list of resources for Teamcity Kotlin DSL
 
 ## Examples:
 - [Marco Behler Jetbrains](https://github.com/marcobehlerjetbrains/anewtodolist/blob/marcobehlerjetbrains-patch-1/.teamcity/settings.kts)
+- [teamcity-plugin-pipelines-dsl](https://github.com/JetBrains/teamcity-plugin-pipelines-dsl)
 - [k8s-kotlin-dsl](https://github.com/fkorotkov/k8s-kotlin-dsl)
 
 ## Presentation:
