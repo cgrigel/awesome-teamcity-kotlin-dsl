@@ -7,7 +7,7 @@
 
 
 PoC Implementation:
-0. Adopt real project to Impetative Kotlin DSL
+0. Adopt real project to Impetative Kotlin DSL (user-profile)
 1. Rewrite  current Auxiliary Scripts to Kotlin DSL for native integration (Kotlin 3th party libraries?)
 2. Refactor curent Generated DSL:
     sequence and Parallel (imperative?)
