@@ -28,7 +28,7 @@ A curated list of resources for Teamcity Kotlin DSL
 
 
 ## Libs:
- -[Kohttp -Kotlin DSL http client ](https://github.com/rybalkinsd/kohttp)
+ - [Kohttp -Kotlin DSL http client ](https://github.com/rybalkinsd/kohttp)
 
 
 ## Videos:
