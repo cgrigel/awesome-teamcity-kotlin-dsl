@@ -14,15 +14,18 @@ A curated list of resources for Teamcity Kotlin DSL
 ## Getting Starting:
 - [Teamcity Kotlin DSL Introduction](https://www.jetbrains.com/help/teamcity/kotlin-dsl.html)
 - [Getting Started with Kotlin DSL](https://blog.jetbrains.com/teamcity/2019/03/configuration-as-code-part-1-getting-started-with-kotlin-dsl/)
+- [Creating TeamCity project templates with Kotlin DSL context parameters](https://blog.jetbrains.com/teamcity/2020/09/creating-teamcity-project-templates-with-kotlin-dsl-context-parameters/)
+- [Template Inheritance with TeamCity Kotlin](https://blog.safnet.com/archive/2020/08/08/teamcity-kotlin-template-inheritance/)
 
 
 ## Documentation:
  - [Kotlin DSL API reference](https://build.bitcoinabc.org/app/dsl-documentation/index.html)
 
 
-## Examples:
+## Code Examples:
 - [Marco Behler Jetbrains](https://github.com/marcobehlerjetbrains/anewtodolist/blob/marcobehlerjetbrains-patch-1/.teamcity/settings.kts)
 - [Anton Arhipov Jetbrains](https://github.com/antonarhipov?tab=repositories&q=teamcity&type=&language=)
+- [Kotlinx-benchmark](https://github.com/Kotlin/kotlinx-benchmark/blob/master/.teamcity/settings.kts)
 - [teamcity-plugin-pipelines-dsl](https://github.com/JetBrains/teamcity-plugin-pipelines-dsl)
 - [k8s-kotlin-dsl](https://github.com/fkorotkov/k8s-kotlin-dsl)
 

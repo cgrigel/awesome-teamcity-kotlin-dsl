@@ -13,3 +13,10 @@ PoC Implementation:
     sequence and Parallel (imperative?)
     DRY to Classes
     params and variables?
+
+
+Disable UI configuration: 
+
+params{
+    param("teamcity.ui.settings.readOnly", "true")
+}
