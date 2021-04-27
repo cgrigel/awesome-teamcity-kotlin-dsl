@@ -5,6 +5,7 @@ A curated list of resources for Teamcity Kotlin DSL
 ## Contents
 - [Getting Starting](#getting-starting)
 - [Documentation](#documentation)
+- [Refactoring](#refactoring)
 - [Examples](#examples)
 - [Libs](#libs)
 - [Videos](#videos)
@@ -21,6 +22,10 @@ A curated list of resources for Teamcity Kotlin DSL
 ## Documentation:
  - [Kotlin DSL Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
  - [Kotlin DSL API reference](https://build.bitcoinabc.org/app/dsl-documentation/index.html)
+
+
+## Refactoring
+ -  [Kotlin DSL for Beginners: Recommended Refactorings](https://blog.jetbrains.com/teamcity/2021/04/kotlin-dsl-for-beginners-recommended-refactorings/)
 
 
 ## Code Examples:
