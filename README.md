@@ -22,6 +22,7 @@ A curated list of resources for Teamcity Kotlin DSL
 ## Documentation:
  - [Kotlin DSL Coding Conventions](https://kotlinlang.org/docs/reference/coding-conventions.html)
  - [Kotlin DSL API reference](https://build.bitcoinabc.org/app/dsl-documentation/index.html)
+ - [Kotlin REST API documentation](https://www.jetbrains.com/help/teamcity/rest/teamcity-rest-api-documentation.html?_gl=1*gqepzo*_ga*MTY0NjIwMjQ4NC4xNjI0MjAwNDEy*_ga_0WQ2ZF5VGT*MTYyNTc0Njk1Ny4xNy4xLjE2MjU3NDg2MDIuMA..&_ga=2.89004120.2130828042.1625739343-1646202484.1624200412&_gac=1.59110879.1624891894.Cj0KCQjw5uWGBhCTARIsAL70sLJbWg2Fj1-u_5ri3xCwq7_AMbT8z0MuhYbBOgSLUO7o_zxKfTLFXXYaAsoWEALw_wcB)
 
 
 ## Refactoring
